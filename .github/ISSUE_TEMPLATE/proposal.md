@@ -1,7 +1,7 @@
 ---
 name: Návrh / Proposal
 about: Podnet na zlepšenie alebo zmenu / Suggestion for an upgrade or a change
-title: PIP-YYYY-MM
+title: PIP-YYYY-0000
 labels: PIP
 assignees: michaltakac
 
